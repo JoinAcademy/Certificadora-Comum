@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Certificadora de Competência Comum</h1>
-  <img src="" alt="Colocar imagem">
+  <img src="JoinAcademy.jpg" alt="Logo Join Academy">
 </div>
 
 ## 💡 Objetivo Geral
