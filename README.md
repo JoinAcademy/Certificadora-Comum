@@ -6,7 +6,7 @@
 ## 💡 Objetivo Geral
 Nosso objetivo é criar um Recurso Educacional Aberto (REA) sobre Banco de Dados (SQL), explicando conceitos essenciais, boas práticas e aplicações práticas por meio de vídeos curtos, claros e interativos.
 
-## 🎯 Obejetivos específicos
+## 🎯 Objetivo específico
 O principal objetivo do projeto é ensinar os fundamentos de Banco de Dados Relacionais e SQL, desenvolvendo exemplos aplicados e relacionando cada conteúdo a competências profissionais essenciais, como interpretar problemas, identificar variáveis e modelar soluções usando ferramentas adequadas.
 
 ## 📚 Conteúdo do projeto 
