@@ -4,7 +4,30 @@
 </div>
 
 ## 💡 Objetivo Geral
-O principal objetivo do projeto é ensinar os fundamentos de Banco de Dados Relacionais e SQL, desenvolvendo exemplos aplicados e relacionando cada conteúdo a competências profissionais essenciais, como interpretar problemas, identificar variáveis e modelar soluções usando ferramentas adequadas, explicando conceitos essenciais, boas práticas e aplicações práticas por meio de vídeos curtos, claros e interativos.
+Criar um Recurso Educacional Aberto (REA) sobre Banco de Dados (SQL), explicando conceitos essenciais, boas práticas e aplicações práticas por meio de vídeos curtos, claros e interativos.
+
+## 🎯 Objetivos específicos
+
+1. Apresentar conceitos fundamentais de Banco de Dados Relacionais e SQL de forma simples e progressiva, garantindo que qualquer estudante possa acompanhar.
+
+
+2. Produzir exemplos práticos e contextualizados que mostrem como aplicar comandos SQL para resolver problemas reais.
+
+
+3. Relacionar cada conteúdo a competências profissionais essenciais, como interpretação de problemas, identificação de variáveis relevantes e modelagem de soluções adequadas.
+
+
+4. Desenvolver vídeos curtos, objetivos e interativos, utilizando recursos visuais e exemplos práticos para reforçar o aprendizado.
+
+
+5. Promover boas práticas de modelagem e manipulação de dados, destacando conceitos como integridade, normalização e eficiência.
+
+
+6. Organizar o conteúdo em sequência lógica e modular, permitindo que o estudante avance no seu próprio ritmo.
+
+
+7. Disponibilizar o material como Recurso Educacional Aberto (REA), garantindo acesso livre e possibilidade de reutilização e adaptação.
+
 
 ## 📚 Conteúdo do projeto 
 Este projeto abrange os principais conceitos e fundamentos de banco de dados SQL, com o objetivo de facilitar o aprendizado através de materiais educativos interativos e didáticos. As matérias abordadas incluem:
