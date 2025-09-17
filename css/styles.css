@@ -228,7 +228,6 @@ mark, .mark {
   padding: 0.1875em;
   background-color: var(--bs-highlight-bg);
 }
-
 sub,
 sup {
   position: relative;
@@ -10833,6 +10832,7 @@ html {
 .page-section {
   padding: 6rem 0;
 }
+
 .page-section .page-section-heading {
   font-size: 2.25rem;
   line-height: 2rem;
@@ -11000,9 +11000,15 @@ html {
   position: relative;
   display: block;
   max-width: 25rem;
+  min-height: 350px;
   border-radius: 0.5rem;
   overflow: hidden;
+  background-color: white;
+
 }
+
+
+
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
   top: 0;
@@ -11034,6 +11040,8 @@ html {
   }
 }
 
+
+
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -11044,3 +11052,4 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
