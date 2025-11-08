@@ -137,7 +137,11 @@ h2, .h2 {
     font-size: 2rem;
   }
 }
-
+.team-member img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+}
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
